@@ -4,7 +4,6 @@
   "description": "jspm nuget repository backend",
   "main": "lib/jspm-nuget.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
