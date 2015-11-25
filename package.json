@@ -1,20 +1,26 @@
 {
   "name": "jspm-nuget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jspm nuget repository backend",
   "main": "lib/jspm-nuget.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:mvno/jspm-nuget.git"
   },
   "author": "Telenor MVNO",
-  "contributors": [{"name": "Thomas Lundström", "email": "thomas.lundstrom@gmail.com"}],
-  "licenses":[{
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0"
-  }],
+  "contributors": [
+    {
+      "name": "Thomas Lundström",
+      "email": "thomas.lundstrom@gmail.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/mvno/jspm-nuget/issues"
   },
